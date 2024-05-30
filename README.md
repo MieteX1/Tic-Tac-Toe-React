@@ -10,7 +10,7 @@ This project is a simple implementation of the classic Tic-Tac-Toe game built us
 - Option to restart the game.
 ### Installation
 1. Clone the repository:
-   - git clone https://github.com/MieteX1/ReactOne.git
+   - git clone https://github.com/MieteX1/Tic-Tac-Toe-React.git
 2. Navigate to the project directory
 3. Install the dependencies:
    - npm install
